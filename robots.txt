@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://instyleceleb.github.io/sitemap.xml
